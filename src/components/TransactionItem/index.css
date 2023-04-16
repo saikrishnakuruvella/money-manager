@@ -1,0 +1,19 @@
+/* Write your CSS here */
+.list-items {
+  list-style: none;
+
+  margin-right: 10px;
+}
+.dlt-btn {
+  width: 20px;
+  height: 20px;
+  background-color: transparent;
+  border: none;
+}
+.dlt-img {
+  width: 20px;
+  height: 20px;
+}
+.data {
+  margin-right: 10px;
+}

@@ -1,0 +1,15 @@
+/* Write your CSS here */
+.moneyManagerContainer {
+  box-shadow: aliceblue;
+  padding: 10px;
+}
+.name-container {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/money-manager/money-manager-bg.png');
+  width: 80%;
+  height: 100px;
+  background-size: cover;
+  margin-bottom: 15px;
+}
+.money-details-container {
+  display: flex;
+}

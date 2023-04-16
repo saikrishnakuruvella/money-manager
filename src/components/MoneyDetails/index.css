@@ -1,0 +1,50 @@
+/* Write your CSS here */
+.total {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+.top {
+  display: flex;
+}
+.money-details-container {
+  display: flex;
+}
+.bg-balance-color {
+  background-color: #84cc16;
+  margin-bottom: 10px;
+  border-radius: 9px;
+}
+.bg-income-color {
+  background-color: #06b6d4;
+  margin-bottom: 10px;
+  border-radius: 9px;
+}
+.bg-expenses-color {
+  background-color: #7c3aed;
+  margin-bottom: 10px;
+  border-radius: 9px;
+}
+.balance-img {
+  width: 80px;
+  height: 40px;
+}
+.history-list-container {
+  display: flex;
+}
+.title-head {
+  margin-right: 10px;
+  font-size: 20px;
+}
+.list-items {
+  display: flex;
+  flex-direction: row;
+}
+.table {
+  width: 50%;
+  height: 50%;
+  margin-left: 60px;
+}
+.transaction-line {
+  display: flex;
+}
